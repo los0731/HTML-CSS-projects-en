@@ -1,1 +1,0 @@
-Add the opening and closing `body` tags between the opening and closing `html` tags.

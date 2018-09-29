@@ -1,1 +1,0 @@
-Change the margin to `padding` with the same size to see how it behaves differently.

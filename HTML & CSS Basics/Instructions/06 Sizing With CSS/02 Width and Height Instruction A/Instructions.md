@@ -1,1 +1,0 @@
-Add a `width` and `height` of `200px` to make your paragraph into a square.

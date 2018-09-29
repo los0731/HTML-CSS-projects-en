@@ -1,1 +1,0 @@
-If you get stuck, use the margin example from the instructions.

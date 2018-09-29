@@ -1,1 +1,0 @@
-Not quite. Make sure you've added "robot.png" as the source by using the `src` attribute.

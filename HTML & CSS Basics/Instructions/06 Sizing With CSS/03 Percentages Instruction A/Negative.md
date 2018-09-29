@@ -1,1 +1,0 @@
-Your styles should look something like this: `width: 50%;`

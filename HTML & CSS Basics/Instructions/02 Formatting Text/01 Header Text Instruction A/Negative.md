@@ -1,1 +1,0 @@
-Take a look at the tags for `body`. Your header tag should look just like that, but with `h1` in it instead.

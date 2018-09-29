@@ -1,1 +1,0 @@
-Take a look at the `margin` example and model the `padding` after that.

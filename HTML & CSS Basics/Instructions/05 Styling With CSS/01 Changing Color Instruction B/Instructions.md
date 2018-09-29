@@ -1,1 +1,0 @@
-Add some more CSS for the `h1` to make the `background` property `Maroon` to change the color of the background.

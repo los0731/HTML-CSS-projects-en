@@ -1,1 +1,0 @@
-Check out the code in the instructions if you get stuck.
